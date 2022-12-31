@@ -24,5 +24,8 @@ public class ShoppingMall {
          * So how we solve this problem ?
          * Solution: Follow the [solution] package.
          * */
+
+
+
     }
 }
