@@ -17,7 +17,7 @@ public class ShoppingMall {
         BankCard bankCard = new DebitCard();
         ShoppingMall shoppingMall =  new ShoppingMall(bankCard);
         shoppingMall.doPurchageSomething(BigDecimal.valueOf(53345.0));
-        /**Uing credit card*/
+        /**Using credit card*/
         BankCard bankCar = new CreditCard();
         ShoppingMall shoppingMal =  new ShoppingMall(bankCar);
         shoppingMal.doPurchageSomething(BigDecimal.valueOf(234243.5));
